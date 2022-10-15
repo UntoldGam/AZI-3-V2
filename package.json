@@ -1,0 +1,28 @@
+{
+  "name": "azi-3-v2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UntoldGam/AZI-3-V2.git"
+  },
+  "author": "UntoldGam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UntoldGam/AZI-3-V2/issues"
+  },
+  "homepage": "https://github.com/UntoldGam/AZI-3-V2#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.3.0",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.1.0",
+    "moment": "^2.29.4",
+    "node-sass": "^7.0.3"
+  }
+}
